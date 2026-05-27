@@ -21,7 +21,7 @@ Em đã tạo Collection để quản lý các request API kiểm thử.
 
 ### Minh họa
 
-![Collection](images/request_get_users.png)
+![Collection](images/request_get_users.png.png)
 
 ---
 
@@ -44,7 +44,7 @@ Lấy danh sách người dùng từ server.
 
 ### Minh họa
 
-![GET](images/request_get_users.png)
+![GET](images/request_get_users.png.png)
 
 ---
 
@@ -73,7 +73,7 @@ POST https://jsonplaceholder.typicode.com/users
 
 ### Minh họa
 
-![POST](images/request_post_user.png)
+![POST](images/request_post_user.png.png)
 
 ---
 
@@ -97,7 +97,7 @@ pm.test("Response body is not empty", function () {
 
 ### Minh họa
 
-![Test Script](images/test_result.png)
+![Test Script](images/test_result.png.png)
 
 ---
 
@@ -117,7 +117,7 @@ base_url = https://jsonplaceholder.typicode.com
 
 ### Minh họa
 
-![Environment](images/environment_variable.png)
+![Environment](images/environment_variable.png.png)
 
 ---
 
@@ -132,7 +132,7 @@ Em sử dụng Collection Runner để chạy toàn bộ request tự động.
 
 ### Minh họa
 
-![Runner](images/collection_runner.png)
+![Runner](images/collection_runner.png.png)
 
 ---
 
